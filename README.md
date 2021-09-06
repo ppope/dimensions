@@ -6,7 +6,7 @@ Code for:  *The Intrinsic Dimensionaity of Images and Its Impact On Learning* - 
 * https://openreview.net/forum?id=XJk19XzGq2J
 
 
-![Basenjis of Varying dimensionality](https://github.com/ppope/dimensions/blob/main/extras/basenjis.png?raw=true)
+![Basenjis of Varying dimensionality](https://github.com/ppope/dimensions/blob/master/extras/basenjis.png?raw=true)
 
 
 ### Environment
