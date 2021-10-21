@@ -2,7 +2,7 @@
 
 Estimating the instrinsic dimensionality of image datasets
 
-Code for:  *The Intrinsic Dimensionaity of Images and Its Impact On Learning* - Phillip Pope and Chen Zhu, Ahmed Abdelkader, Micah Goldblum, Tom Goldstein (ICLR 2021, spotlight)
+Code for:  *The Intrinsic Dimensionaity of Images and Its Impact On Learning* - Phillip Pope, Chen Zhu, Ahmed Abdelkader, Micah Goldblum, Tom Goldstein (ICLR 2021, spotlight)
 * https://openreview.net/forum?id=XJk19XzGq2J
 
 
